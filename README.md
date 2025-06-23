@@ -6,6 +6,6 @@ We do not use tracking technologies, nor do we share any user data with third pa
 
 Any features provided by the extension are fully functional within the browser and do not involve external servers.
 
-If you have any questions or concerns, feel free to contact us at: your_email@example.com
+If you have any questions or concerns, feel free to contact me at: huki152004@gmail.com
 
 This is the privacy for the Copy-context-spotify-privacy extension.
